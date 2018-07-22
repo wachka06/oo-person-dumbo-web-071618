@@ -1,4 +1,5 @@
 # your code goes here
+<<<<<<< HEAD
 require 'pry'
 
 class Person
@@ -76,3 +77,6 @@ class Person
   end
 
 end
+=======
+
+>>>>>>> a57adfda670fbad741cf27b7877c75e6fee407c3
